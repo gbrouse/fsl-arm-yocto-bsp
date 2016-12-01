@@ -14,8 +14,10 @@
   
   <project remote="yocto" revision="dd0ba9ea4a11ab15348d4fe3574e4b28784db82f" name="poky" path="sources/poky"/>
   
+  <project remote="gbrouse" revision="35b8b9bd9863de208ab60e33b55f10ee43e2619b" name="Freescale-meta-fsl-arm" path="sources/meta-fsl-arm"/>
+  <?ignore
   <project remote="yocto" revision="35b8b9bd9863de208ab60e33b55f10ee43e2619b" name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
-  
+  ?>
   <?ignore
   <project remote="gbrouse" revision="96b43a83ec947b218b7f61ed38af0d3933258733" name="Freescale-meta-fsl-arm" path="sources/meta-fsl-arm"/>
   ?>
