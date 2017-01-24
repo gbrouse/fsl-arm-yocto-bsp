@@ -9,10 +9,10 @@
   <remote fetch="git://git.openembedded.org" name="oe"/>
   <remote fetch="git://github.com/OSSystems" name="OSSystems"/>
   <remote fetch="git://github.com/meta-qt5"  name="QT5"/>
-  <remote fetch="git://github.com/gbrouse" name="gbrouse"/>
+  <remote fetch="https://github.com/gbrouse" name="gbrouse"/>
   
   
-  <project remote="gbrouse" revision="dd0ba9ea4a11ab15348d4fe3574e4b28784db82f" name="yoctoproject-poky" path="sources/poky"/>
+  <project remote="gbrouse" revision="9c3285836bb4d80f8b4e895a8c90df4ce39fde73" name="yoctoproject-poky" path="sources/poky"/>
   
   <project remote="gbrouse" revision="35b8b9bd9863de208ab60e33b55f10ee43e2619b" name="Freescale-meta-fsl-arm" path="sources/meta-fsl-arm"/>
   
